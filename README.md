@@ -265,25 +265,6 @@ powershell -NoProfile -ExecutionPolicy Bypass -File ".\_support\run_unlocker_cor
 ```powershell
 powershell -NoProfile -ExecutionPolicy Bypass -File ".\_support\run_unlocker_core.ps1" -PS5 192.168.1.94 -DebugReport -Elf "PS5 Unlocker DEBUG.elf" -PayloadLogPort 9022 -Mode wave -Start 1 -Wave 5
 ```
-
-### Ouvrir un log payload avec netcat
-
-```bash
-nc 192.168.1.94 9022
-```
-
-### Envoyer directement un ELF au loader 9021
-
-```bash
-nc -q 0 192.168.1.94 9021 < trophy_unlocker.elf
-```
-
-Selon la version de netcat, `-q 0` peut ne pas exister. Dans ce cas, essayer :
-
-```bash
-nc 192.168.1.94 9021 < trophy_unlocker.elf
-```
-
 ## Fonctionnement général
 
 Le fonctionnement est le suivant :
