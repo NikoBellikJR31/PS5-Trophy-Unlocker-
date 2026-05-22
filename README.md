@@ -1,7 +1,7 @@
 # Trophy Unlocker PS5 ELF
 Tool PC pour envoyer une payload Trophy Unlocker sur une console PS5 compatible avec un jeu déjà lancé.
 
-Le choix des trophées se fait depuis le PC avec le lanceur. Le projet garde l'esprit du payload de base, mais il a été fortement modifié et étendu avec un lanceur PC, plusieurs modes d'envoi, des rapports debug, une détection PS4/PS5, des logs, et une gestion expérimentale des cas Trophy1 / Trophy2 / UDS...
+Le choix des trophées se fait depuis le PC avec le lanceur. Le projet garde l'esprit du payload de base, mais il a été fortement modifié et étendu avec un lanceur PC, plusieurs modes d'envoi, des rapports debug, une détection PS4/PS5...
 
 ## Vidéo de démonstration
 
