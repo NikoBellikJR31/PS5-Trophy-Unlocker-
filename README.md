@@ -3,7 +3,7 @@ Tool PC pour envoyer une payload Trophy Unlocker sur une console PS5 compatible 
 
 Le choix des trophées se fait depuis le PC avec le lanceur. Le projet garde l'esprit du payload de base, mais il a été fortement modifié et étendu avec un lanceur PC, plusieurs modes d'envoi, des rapports debug, une détection PS4/PS5, des logs, et une gestion expérimentale des cas Trophy1 / Trophy2 / UDS...
 
-> Projet expérimental pour développeurs/homebrew. Aucune garantie de fonctionnement. Utilisation à vos risques.      Tester sur FW 6.02 
+> Projet expérimental pour développeurs/homebrew. Utilisation à vos risques.      Tester sur FW 6.02 
 
 ## Base et modifications
 
