@@ -63,8 +63,8 @@ Configuration utilisée pendant les tests :
 ```text
 Console : PS5
 Firmware testé : 6.02
-PC : Windows 11
-Debug utilisé : PS5 Debug 1.05
+PC : Windows 11 / Windows 10 VM
+Debug utilisé : PS5 Debug 1.05 
 ```
 
 ## Python / dépendances
