@@ -7,7 +7,7 @@ Le choix des trophées se fait depuis le PC avec le lanceur. Le projet garde l'e
 
 [![Voir la démonstration](https://img.youtube.com/vi/amzFqTmyxbs/maxresdefault.jpg)](https://www.youtube.com/watch?v=amzFqTmyxbs)
 
-> Projet expérimental pour développeurs/homebrew. Utilisation à vos risques.      Tester sur FW 6.02 
+> Projet expérimental pour développeurs/homebrew. Utilisation à vos risques.      Tester sur FW 6.02/kstuff 1.6.7 Ps5 Debug 1.05
 
 ## Base et modifications
 
