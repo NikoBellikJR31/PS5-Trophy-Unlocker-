@@ -359,4 +359,5 @@ Le projet est distribué sous licence :
 GPL-3.0-or-later
 ```
 
-
+⚠️⚠️⚠️
+À VENIR , DEJA PRESQUE FINALISE , PLUS DE PY... BETA 2 = 1 LAUNCHER , 1 SEUL PAYLOAD MULTI FW ,PAS BESOIN DE PS5 DEBUG , PORT 9021 
