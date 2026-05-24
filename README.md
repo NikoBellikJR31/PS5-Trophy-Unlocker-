@@ -348,3 +348,8 @@ Modifications importantes :
 -Extension du code, lanceur PC, les modes de sélection, les rapports debug, la gestion PS4/PS5 et les tests expérimentaux Trophy1 / Trophy2 / UDS….
 
 Merci également aux développeurs et testeurs de la scène PS4/PS5 homebrew qui partagent leurs recherches , qui mon aide dans mon apprentissage .
+
+Pour plus d'infos  :
+
+https://github.com/ArkSama/PS5-PHU-Trophy-System
+https://git.etawen.dev/soniciso/uds-trophy-unlocker
