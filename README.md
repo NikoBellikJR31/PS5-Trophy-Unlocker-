@@ -7,14 +7,14 @@ Le choix des trophées se fait depuis le PC avec le lanceur. Le projet garde l'e
 
 [![Voir la démonstration](https://img.youtube.com/vi/amzFqTmyxbs/maxresdefault.jpg)](https://www.youtube.com/watch?v=amzFqTmyxbs)
 
-> Projet expérimental pour développeurs/homebrew. Utilisation à vos risques.      Tester sur FW 6.02/kstuff 1.6.7/Ps5 Debug 1.05/shadowmount 1.3
-  Fonctionne sur FW 6.02
+> Projet expérimental pour développeurs/homebrew. Utilisation à vos risques.      
+  Fonctionnelle sur FW 6.02 / Ceci n'est pas un Fork
 
 ## Base et modifications
 
-Ce projet est basé sur le travail public de John Törnblom autour des payloads PS5 et de `ps5-payload-elfldr`.
+Ce projet est basé sur un main.c que j'ai recuperer de SonicISO sur X , Source ? 
 
-La base d'origine a été fortement modifiée notamment pour ajouter :
+La base du main d'origine a été fortement modifiée et des ajouts et script on etait rajouter notamment pour ajouter :
 
 - un lanceur PC en `.bat` et `.ps1` ;
 - des modes `all`, `id`, `wave`, `range`, `list` ;
@@ -65,7 +65,7 @@ Configuration utilisée pendant les tests :
 Console : PS5
 Firmware testé : 6.02
 PC : Windows 11 / Windows 10 VM
-Debug utilisé : PS5 Debug 1.05 
+Debug utilisé : PS5 Debug 1.05 / kstuff 1.6.7
 ```
 
 ## Python / dépendances
@@ -328,11 +328,10 @@ Ce projet est expérimental.
 Il est possible de rencontrer :
 
 - des bugs ;
-- des offsets non supportés ;
-- des différences selon firmware ;
+- des offsets non supportés ; ( a venir multi fw )
 - des problèmes de détection ;
 - des erreurs d'injection ;
-- des comportements différents selon le jeu lancé.
+- des comportements différents selon le jeu lancé...
 
 ## Avertissement
 
@@ -342,7 +341,7 @@ Ce projet est fourni à titre éducatif, expérimental et homebrew
 
 Base / inspiration principale :
 
-- John Törnblom, pour ses travaux publics autour de la scène PS5 homebrew et de `ps5-payload-elfldr`.
+- Main.c SonicISO (fourni dans la repo) , et ma curiosite , j'aime apprendre de nouvelles choses , experimenter , j'ai une soif de savoir , c'est ma passion , du coup apres reverse j'ai appris plein de nouvelles choses et fait moi meme un trophy unlocker PS5, je suis pas un expert , j'aime juste apprendre tout les jours de ma vie 
 
 Modifications importantes :
 
@@ -350,9 +349,8 @@ Modifications importantes :
 
 Merci également aux développeurs et testeurs de la scène PS4/PS5 homebrew qui partagent leurs recherches.
 
-## Licence
 
-Ce projet est un dérivé fortement modifié de travaux publics existants. Les crédits d'origine doivent être conservés.
+## Licence
 
 Le projet est distribué sous licence :
 
