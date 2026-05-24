@@ -341,22 +341,10 @@ Ce projet est fourni à titre éducatif, expérimental et homebrew
 
 Base / inspiration principale :
 
-- Main.c SonicISO (fourni dans la repo) , et ma curiosite , j'aime apprendre de nouvelles choses , experimenter , j'ai une soif de savoir , c'est ma passion , du coup apres reverse j'ai appris plein de nouvelles choses et fait moi meme un trophy unlocker PS5, je suis pas un expert , j'aime juste apprendre tout les jours de ma vie 
+- Main.c SonicISO (fourni dans la repo) , et ma curiosite , j'aime apprendre de nouvelles choses , experimenter , j'ai une soif de savoir , c'est ma passion , du coup apres reverse j'ai appris plein de nouvelles choses et fait moi meme un trophy unlocker PS5, je suis pas un expert sa se voit  , j'aime juste apprendre tout les jours de ma vie 
 
 Modifications importantes :
 
 -Extension du code, lanceur PC, les modes de sélection, les rapports debug, la gestion PS4/PS5 et les tests expérimentaux Trophy1 / Trophy2 / UDS….
 
-Merci également aux développeurs et testeurs de la scène PS4/PS5 homebrew qui partagent leurs recherches.
-
-
-## Licence
-
-Le projet est distribué sous licence :
-
-```text
-GPL-3.0-or-later
-```
-
-⚠️⚠️⚠️
-À VENIR , DEJA PRESQUE FINALISE , PLUS DE PY... BETA 2 = 1 LAUNCHER , 1 SEUL PAYLOAD MULTI FW ,PAS BESOIN DE PS5 DEBUG , PORT 9021 
+Merci également aux développeurs et testeurs de la scène PS4/PS5 homebrew qui partagent leurs recherches , qui mon aide dans mon apprentissage .
