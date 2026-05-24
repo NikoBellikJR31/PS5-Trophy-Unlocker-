@@ -8,11 +8,11 @@ Le choix des trophées se fait depuis le PC avec le lanceur. Le projet garde l'e
 [![Voir la démonstration](https://img.youtube.com/vi/amzFqTmyxbs/maxresdefault.jpg)](https://www.youtube.com/watch?v=amzFqTmyxbs)
 
 > Projet expérimental pour développeurs/homebrew. Utilisation à vos risques.      
-  Fonctionnelle sur FW 6.02 / Ceci n'est pas un Fork
+  Fonctionnelle sur FW 6.02 / Ceci n'est pas un Fork, tout ce qui est present ici est de moi 
 
 ## Base et modifications
 
-Ce projet est basé sur un main.c que j'ai recuperer de SonicISO sur X , Source ? 
+Ce projet est basé sur seulement main.c que j'ai recuperer de SonicISO sur X , Source ? 
 
 La base du main d'origine a été fortement modifiée et des ajouts et script on etait rajouter notamment pour ajouter :
 
