@@ -7,7 +7,7 @@ Le choix des trophées se fait depuis le PC avec le lanceur. Le projet garde l'e
 
 [![Voir la démonstration](https://img.youtube.com/vi/amzFqTmyxbs/maxresdefault.jpg)](https://www.youtube.com/watch?v=amzFqTmyxbs)
 
-> Projet expérimental pour développeurs/homebrew. Utilisation à vos risques.      
+> Projet expérimental pour développeurs/homebrew. Utilisation à vos risques.  Tout les scripts et main.c sont present ici     
   Fonctionnelle sur FW 6.02 / Ceci n'est pas un Fork, tout ce qui est present ici est de moi 
 
 ## Base et modifications
