@@ -7,12 +7,12 @@ Le choix des trophées se fait depuis le PC avec le lanceur. Le projet garde l'e
 
 [![Voir la démonstration](https://img.youtube.com/vi/amzFqTmyxbs/maxresdefault.jpg)](https://www.youtube.com/watch?v=amzFqTmyxbs)
 
-> Projet expérimental pour développeurs/homebrew. Utilisation à vos risques.  Tout les scripts et main.c sont present ici     
-  Fonctionnelle sur FW 6.02 / Ceci n'est pas un Fork, tout ce qui est present ici est de moi 
+> Projet expérimental destine aux "développeurs/homebrew". Utilisation à vos risques.  Tout les scripts et main.c sont present ici     
+  Fonctionnelle sur "FW 6.02" / Ceci n'est pas un Fork 
 
 ## Base et modifications
 
-Ce projet est basé sur seulement main.c que j'ai recuperer de SonicISO sur X , Source ? 
+Ce projet est basé sur seulement main.c que j'ai recuperer de SonicISO sur X , tout le reste c'est du reverse en live avec ma console 6.02 le debug activer...et sdk 10 pour des infos 
 
 La base du main d'origine a été fortement modifiée et des ajouts et script on etait rajouter notamment pour ajouter :
 
@@ -335,21 +335,26 @@ Il est possible de rencontrer :
 
 ## Avertissement
 
-Ce projet est fourni à titre éducatif, expérimental et homebrew
+Ce projet est fourni à titre éducatif, expérimental et homebrew 
 
 ## Crédits
 
 Base / inspiration principale :
 
-- Main.c SonicISO (fourni dans la repo) , et ma curiosite , j'aime apprendre de nouvelles choses , experimenter , j'ai une soif de savoir , c'est ma passion , du coup apres reverse j'ai appris plein de nouvelles choses et fait moi meme un trophy unlocker PS5, je suis pas un expert sa se voit  , j'aime juste apprendre tout les jours de ma vie 
+- Main.c SonicISO (fourni dans la repo) , et ma curiosite , j'aime apprendre de nouvelles choses , experimenter , j'ai une soif de savoir , c'est ma passion , du coup apres reverse j'ai appris plein de nouvelles choses et fait moi meme un trophy unlocker PS5 pour mon fw fonctionnel , je suis pas un expert sa se voit  , j'aime juste apprendre tout les jours de ma vie 
+
+- P55 SDK John Tornblom 
+- SDK 10 pour les infos
+- Reverse et script et elf pour analyses
 
 Modifications importantes :
 
--Extension du code, lanceur PC, les modes de sélection, les rapports debug, la gestion PS4/PS5 et les tests expérimentaux Trophy1 / Trophy2 / UDS….
+-Extension du code, lanceur PC, les modes de sélection, les rapports debug, la gestion PS4/PS5 ...
 
 Merci également aux développeurs et testeurs de la scène PS4/PS5 homebrew qui partagent leurs recherches , qui mon aide dans mon apprentissage .
 
-Pour plus d'infos  :
+Pour plus d'infos de devs  :
 
 https://github.com/ArkSama/PS5-PHU-Trophy-System
 https://git.etawen.dev/soniciso/uds-trophy-unlocker
+
