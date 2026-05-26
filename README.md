@@ -342,9 +342,9 @@ Ce projet est fourni à titre éducatif, expérimental et homebrew
 Base / inspiration principale :
 
 - Main.c SonicISO (fourni dans la repo) , et ma curiosite , j'aime apprendre de nouvelles choses , experimenter , j'ai une soif de savoir , c'est ma passion , du coup apres reverse j'ai appris plein de nouvelles choses et fait moi meme un trophy unlocker PS5 pour mon fw fonctionnel , je suis pas un expert sa se voit  , j'aime juste apprendre tout les jours de ma vie 
-- PS5 Debug Sistro / ctn 
-- P55 SDK John Tornblom 
-- SDK 10 pour des infos
+- PS5 Debug Sistro / ctn  ✌🏻 thx Goldhen 
+- P55 SDK John Tornblom 🫡
+- SDK 10 pour des infos 
 - Reverse et script et elf pour analyses
 
 Modifications importantes :
