@@ -1,5 +1,5 @@
 /* PS5 trophy unlocker — homebrew payload for jailbroken consoles.
- * Modifier le 12 mai 2026 Niko Bellik base de John Törnblom
+ * Modifier le 12 mai 2026 Niko Bellik base partage par SonicISO
  *
  * Usage:
  *   nc <ps5> 9021 < trophy_unlocker.elf       launches the payload
